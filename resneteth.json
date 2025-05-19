@@ -1,0 +1,125 @@
+{
+  "groups": [
+    {
+      "name": "G1",
+      "endpoint": "node01-eth1:8001"
+    },
+    {
+      "name": "G2",
+      "endpoint": "node02-eth1:8001"
+    },
+    {
+      "name": "G3",
+      "endpoint": "node03-eth1:8001"
+    },
+    {
+      "name": "G4",
+      "endpoint": "node04-eth1:8001"
+    },
+    {
+      "name": "G5",
+      "endpoint": "node05-eth1:8001"
+    },
+    {
+      "name": "G6",
+      "endpoint": "node06-eth1:8001"
+    },
+    {
+      "name": "G7",
+      "endpoint": "node07-eth1:8001"
+    },
+    {
+      "name": "G8",
+      "endpoint": "node08-eth1:8001"
+    },
+    {
+      "name": "G9",
+      "endpoint": "node09-eth1:8001"
+    },
+    {
+      "name": "G10",
+      "endpoint": "node12-eth1:8001"
+    },
+    {
+      "name": "G11",
+      "endpoint": "node13-eth1:8001"
+    },
+    {
+      "name": "G12",
+      "endpoint": "node14-eth1:8001"
+    },
+    {
+      "name": "G13",
+      "endpoint": "node15-eth1:8001"
+    },
+    {
+      "name": "G14",
+      "endpoint": "node16-eth1:8001"
+    },
+    {
+      "name": "G15",
+      "endpoint": "node17-eth1:8001"
+    },
+    {
+      "name": "G16",
+      "endpoint": "node18-eth1:8001"
+    },
+    {
+      "name": "G17",
+      "endpoint": "node19-eth1:8001"
+    },
+    {
+      "name": "G18",
+      "endpoint": "node20-eth1:8001"
+    },
+    {
+      "name": "G19",
+      "endpoint": "node21-eth1:8001"
+    },
+    {
+      "name": "G20",
+      "endpoint": "node22-eth1:8001"
+    },
+    {
+      "name": "G21",
+      "endpoint": "node23-eth1:8001"
+    },
+    {
+      "name": "G22",
+      "endpoint": "node24-eth1:8001"
+    },
+    {
+      "name": "G23",
+      "endpoint": "node25-eth1:8001"
+    },
+    {
+      "name": "G24",
+      "endpoint": "node26-eth1:8001"
+    },
+    {
+      "name": "G25",
+      "endpoint": "node27-eth1:8001"
+    },
+    {
+      "name": "G26",
+      "endpoint": "node28-eth1:8001"
+    },
+    {
+      "name": "G27",
+      "endpoint": "node29-eth1:8001"
+    },
+    {
+      "name": "G28",
+      "endpoint": "node30-eth1:8001"
+    },
+    {
+      "name": "G29",
+      "endpoint": "node31-eth1:8001"
+    },
+    {
+      "name": "G30",
+      "endpoint": "node32-eth1:8001"
+    }
+    
+  ]
+}
